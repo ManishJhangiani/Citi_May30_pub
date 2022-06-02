@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 14.0.2
+Implementation-Title: inventory
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.oracle.cloud
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/inventory/
+Created-By: Maven Integration for Eclipse
+
