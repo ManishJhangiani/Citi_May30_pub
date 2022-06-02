@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "item": "LAPTOP 3",
+        "price": 3245.4,
+        "quantity": 3
+    },
+    {
+        "id": 2,
+        "item": "LAPTOP ",
+        "price": 345.4,
+        "quantity": 2
+    },
+    {
+        "id": 3,
+        "item": "LAPTOP 5",
+        "price": 345.434,
+        "quantity": 20
+    }
+]
