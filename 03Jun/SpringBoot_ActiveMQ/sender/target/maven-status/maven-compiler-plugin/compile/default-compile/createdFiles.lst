@@ -1,0 +1,3 @@
+com\ram\config\JMSConfiguration.class
+com\ram\model\Product.class
+com\ram\MessageProducerApplication.class
